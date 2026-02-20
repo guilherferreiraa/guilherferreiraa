@@ -20,7 +20,7 @@
 ### Contato: 
 - Você pode me encontrar aqui no GitHub ou em meus projetos!
 -  [**Aqui você pode conferir o meu portfólio**](https://my-portfolio-guilhermeferreira.vercel.app/)
-
+---
 ### Current Focus: 
 - Learn more about REACT.
 - Learn new programming content.
